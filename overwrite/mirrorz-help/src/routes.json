@@ -1,0 +1,68 @@
+{
+  "/archlinux/": {
+    "title": "Arch Linux 软件仓库",
+    "fullTitle": "Arch Linux 软件仓库镜像使用帮助",
+    "file": "archlinux.mdx",
+    "cname": "archlinux"
+  },
+  "/centos/": {
+    "title": "CentOS 软件仓库",
+    "fullTitle": "CentOS 软件仓库镜像使用帮助",
+    "file": "centos.mdx",
+    "cname": "centos"
+  },
+  "/crates.io-index.git/": {
+    "title": "Rust crates.io 索引",
+    "fullTitle": "Rust crates.io 索引镜像使用帮助",
+    "file": "crates.io-index.git.mdx",
+    "cname": "crates.io-index.git"
+  },
+  "/CTAN/": {
+    "title": "CTAN",
+    "fullTitle": "CTAN 镜像使用帮助",
+    "file": "CTAN.mdx",
+    "cname": "CTAN"
+  },
+  "/debian/": {
+    "title": "Debian 软件仓库",
+    "fullTitle": "Debian 软件仓库镜像使用帮助",
+    "file": "debian.mdx",
+    "cname": "debian"
+  },
+  "/debian-security/": {
+    "title": "Debian Security 软件仓库",
+    "fullTitle": "Debian Security 软件仓库镜像使用帮助",
+    "file": "debian-security.mdx",
+    "cname": "debian-security"
+  },
+  "/debian-cd/": {
+    "title": "Debian CD",
+    "fullTitle": "Debian CD 镜像使用帮助",
+    "file": "debian-cd.mdx",
+    "cname": "debian-cd"
+  },
+  "/fedora/": {
+    "title": "Fedora 软件仓库",
+    "fullTitle": "Fedora 软件仓库镜像使用帮助",
+    "file": "fedora.mdx",
+    "cname": "fedora"
+  },
+  "/linux.git/": {
+    "title": "Linux Git",
+    "fullTitle": "Linux Git 镜像使用帮助",
+    "file": "linux.git.mdx",
+    "cname": "linux.git"
+  },
+  "/manjaro/": {
+    "title": "Manjaro 软件仓库",
+    "fullTitle": "Manjaro 软件仓库镜像使用帮助",
+    "file": "manjaro.mdx",
+    "cname": "manjaro"
+  },
+  "/ubuntu/": {
+    "title": "Ubuntu 软件仓库",
+    "fullTitle": "Ubuntu 软件仓库镜像使用帮助",
+    "file": "ubuntu.mdx",
+    "cname": "ubuntu"
+  }
+}
