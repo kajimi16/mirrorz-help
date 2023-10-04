@@ -12,16 +12,15 @@
         "cname": "archlinux",
         "options_name": "archlinux",
         "url": "/archlinux"
+      },{
+        "cname": "archlinuxcn",
+        "options_name": "archlinuxcn",
+        "url": "/archlinuxcn"
       },
       {
         "cname": "centos",
         "options_name": "centos",
         "url": "/centos"
-      },
-      {
-        "cname": "crates.io-index.git",
-        "options_name": "crates.io-index.git",
-        "url": "/git/crates.io-index.git"
       },
       {
         "cname": "CTAN",
@@ -62,6 +61,11 @@
         "cname": "ubuntu",
         "options_name": "ubuntu",
         "url": "/ubuntu"
+      },
+      {
+        "cname": "ubuntu-ports",
+        "options_name": "ubuntu-ports",
+        "url": "/ubuntu-ports"
       },
       {
         "cname": "ubuntu-releases",
