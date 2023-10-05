@@ -13,11 +13,13 @@ const sites = [
     },
 ]
 
-const mirrors = Object.keys(routes).map((k) => {
+const names = Object.keys(routes).map((k) => {
     const regex = /[^\/]+/g
     const match = k.match(regex)
     return match[0]
-}).map((str) => {
+})
+
+const mirrors = names.map((str) => {
     const obj = {
         "cname": str,
         "options_name": str,
@@ -34,9 +36,16 @@ const pack = sites.map((site) => {
     return obj
 })
 
-const jsonStr = JSON.stringify(pack)
+const packStr = JSON.stringify(pack)
+const listStr = JSON.stringify(names)
 
-fs.writeFile('../overwrite/mirrorz-help/public/osa-pack.json', jsonStr, err => {
+fs.writeFile('../overwrite/mirrorz-help/public/osa-pack.json', packStr, err => {
+    if (err) {
+      console.error(err);
+    }
+});
+
+fs.writeFile('../overwrite/mirrorz-help/public/help_list.json', listStr, err => {
     if (err) {
       console.error(err);
     }
