@@ -17,6 +17,12 @@
     "file": "centos.mdx",
     "cname": "centos"
   },
+  "/CRAN/": {
+    "title": "CRAN",
+    "fullTitle": "CRAN 镜像使用帮助",
+    "file": "CRAN.mdx",
+    "cname": "CRAN"
+  },
   "/CTAN/": {
     "title": "CTAN",
     "fullTitle": "CTAN 镜像使用帮助",
@@ -58,6 +64,18 @@
     "fullTitle": "Manjaro 软件仓库镜像使用帮助",
     "file": "manjaro.mdx",
     "cname": "manjaro"
+  },
+  "/rpmfusion/": {
+    "title": "RPMFusion 软件仓库",
+    "fullTitle": "RPMFusion 软件仓库镜像使用帮助",
+    "file": "rpmfusion.mdx",
+    "cname": "rpmfusion"
+  },
+  "/termux/": {
+    "title": "Termux 软件仓库",
+    "fullTitle": "Termux 软件仓库镜像使用帮助",
+    "file": "termux.mdx",
+    "cname": "termux"
   },
   "/ubuntu/": {
     "title": "Ubuntu 软件仓库",

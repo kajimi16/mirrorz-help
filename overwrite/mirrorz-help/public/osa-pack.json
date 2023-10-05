@@ -58,6 +58,26 @@
         "url": "/manjaro"
       },
       {
+        "cname": "debian-nonfree",
+        "options_name": "debian-nonfree",
+        "url": "/debian-nonfree"
+      },
+      {
+        "cname": "rpmfusion",
+        "options_name": "rpmfusion",
+        "url": "/rpmfusion"
+      },
+      {
+        "cname": "termux",
+        "options_name": "termux",
+        "url": "/termux"
+      },
+      {
+        "cname": "CRAN",
+        "options_name": "CRAN",
+        "url": "/CRAN"
+      },
+      {
         "cname": "ubuntu",
         "options_name": "ubuntu",
         "url": "/ubuntu"
