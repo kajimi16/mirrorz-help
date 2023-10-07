@@ -23,6 +23,12 @@
     "file": "CRAN.mdx",
     "cname": "CRAN"
   },
+  "/crates.io-index/": {
+    "title": "Rust crates.io 稀疏索引",
+    "fullTitle": "Rust crates.io 稀疏索引镜像使用帮助",
+    "file": "crates.io-index.mdx",
+    "cname": "crates.io-index"
+  },
   "/CTAN/": {
     "title": "CTAN",
     "fullTitle": "CTAN 镜像使用帮助",
