@@ -71,6 +71,12 @@
     "file": "manjaro.mdx",
     "cname": "manjaro"
   },
+  "/msys2/": {
+    "title": "MSYS2 软件仓库",
+    "fullTitle": "MSYS2 软件仓库镜像使用帮助",
+    "file": "msys2.mdx",
+    "cname": "msys2"
+  },
   "/ros/": {
     "title": "ROS 软件仓库",
     "fullTitle": "ROS 软件仓库镜像使用帮助",
