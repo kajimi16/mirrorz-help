@@ -1,4 +1,10 @@
 {
+  "/anaconda/": {
+    "title": "Anaconda 软件仓库",
+    "fullTitle": "Anaconda 软件仓库镜像使用帮助",
+    "file": "anaconda.mdx",
+    "cname": "anaconda"
+  },
   "/archlinux/": {
     "title": "Arch Linux 软件仓库",
     "fullTitle": "Arch Linux 软件仓库镜像使用帮助",
@@ -76,6 +82,12 @@
     "fullTitle": "MSYS2 软件仓库镜像使用帮助",
     "file": "msys2.mdx",
     "cname": "msys2"
+  },
+  "/pypi/": {
+    "title": "PyPI 软件仓库",
+    "fullTitle": "PyPI 软件仓库镜像使用帮助",
+    "file": "pypi.mdx",
+    "cname": "pypi"
   },
   "/ros/": {
     "title": "ROS 软件仓库",
