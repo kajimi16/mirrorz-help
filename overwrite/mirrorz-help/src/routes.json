@@ -77,6 +77,12 @@
     "file": "manjaro.mdx",
     "cname": "manjaro"
   },
+  "/microsoft-edge/": {
+      "title": "Microsoft Edge",
+      "fullTitle": "Microsoft Edge 镜像使用帮助",
+      "file": "microsoft-edge.mdx",
+      "cname": "microsoft-edge"
+  },
   "/msys2/": {
     "title": "MSYS2 软件仓库",
     "fullTitle": "MSYS2 软件仓库镜像使用帮助",

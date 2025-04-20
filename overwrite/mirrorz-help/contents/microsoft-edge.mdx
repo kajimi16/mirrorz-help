@@ -1,0 +1,27 @@
+---
+title: Microsoft Edge 镜像使用帮助
+cname: 'microsoft-edge'
+---
+
+### 使用 apt 下载 microsoft-edge
+
+添加镜像源
+
+<CodeBlock>
+
+```
+{{sudo}}add-apt-repository "deb [arch=amd64] {{http_protocol}}{{mirror}} stable main"
+```
+
+</CodeBlock>
+
+安装 microsoft-edge，通常我们安装 micorsoft-edge-stable
+
+<CodeBlock>
+
+```
+{{sudo}}apt update
+{{sudo}}apt install microsoft-edge-stable
+```
+
+</CodeBlock>
